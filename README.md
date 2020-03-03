@@ -4,12 +4,12 @@ Este curso foi elaborado para profissionais que não possuem formação na área
 
 ## [Cap 1 - Estrutra de dados](https://github.com/leonardogandrade/pythonDataScience/blob/master/cap1/Estrutura_de_dados.ipynb)
 ###### Funções, listas, dicionários, operadores aritiméticos
-## Conjunto de dados
+## [Cap 2 - Conjunto de dados] )
 ###### Arquivos texto, xls, separadores, 
-## Matrizes
+## [Cap 3 - Matrizes]() 
 ###### Numpy, operações matriciais, média, mediana, alor máximo, valor mínimo
-## Visualização de dados
+## [Cap 4 - Visualização de dados]()
 ###### Gráficos de dispersão, baras, pizza, box-plot
-## Estatistica descritiva
+## [Cap 5 - Estatistica descritiva]()
 ###### Desvio padrão, correlação, regressão linear
-## Bases de dados públicas
+## [Cap 6 - Bases de dados públicas]()
