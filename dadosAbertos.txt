@@ -1,0 +1,8 @@
+dadosabertos.cl.df.gov.br
+senado.leg.br
+https://www12.senado.leg.br/dados-abertos
+dadosabertos.camara.leg.br
+dados.gov.br
+dados.df.gov.br
+brasil.io
+patiodigital.prefeitura.sp.gov.br
